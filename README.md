@@ -1,5 +1,13 @@
 # Cognifyz Technologies - Data Science Internship Project
 
+[![GitHub Pages](https://img.shields.io/badge/Live_Dashboard-GitHub_Pages-blue?style=for-the-badge&logo=github)](https://yashchaudhari372-lab.github.io/Cognifyz-Data-Science-Internship/)
+[![Streamlit App](https://img.shields.io/badge/Interactive_App-Streamlit-red?style=for-the-badge&logo=streamlit)](https://share.streamlit.io/)
+[![Python 3.11](https://img.shields.io/badge/Python-3.11-brightgreen?style=for-the-badge&logo=python)](https://python.org)
+[![Machine Learning](https://img.shields.io/badge/ML-Random_Forest_R²_0.9532-orange?style=for-the-badge)](https://scikit-learn.org)
+
+🌐 **Live Deployed Web Portal:** [https://yashchaudhari372-lab.github.io/Cognifyz-Data-Science-Internship/](https://yashchaudhari372-lab.github.io/Cognifyz-Data-Science-Internship/)
+
+
 **Intern Name:** Yash Devidas Chaudhari  
 **Role:** Data Science Intern  
 **Company:** Cognifyz Technologies (Cognifyz IT Solutions Pvt. Ltd.)  
